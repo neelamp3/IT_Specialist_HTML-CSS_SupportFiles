@@ -18,4 +18,5 @@ a {
 }
 a:hover{
     text-decroration: underline;
+    font-weight: bold;
 }
